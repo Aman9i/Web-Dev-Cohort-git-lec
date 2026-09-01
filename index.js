@@ -13,3 +13,13 @@ function sub(a,b){
 
 sub(20,10)
 
+function multiply(a,b){
+    return a*b
+}
+
+multiply(2,5)
+multiply(5,5)
+multiply(24,24)
+multiply(24,2)
+
+
