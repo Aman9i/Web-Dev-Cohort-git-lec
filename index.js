@@ -18,5 +18,5 @@ function multiply(a,b){
 }
 
 multiply(2,5)
-
+multiply(5,5)
 
